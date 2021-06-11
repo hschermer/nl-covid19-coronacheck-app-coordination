@@ -79,7 +79,7 @@ The hmac will be created using the following items:
 Notes:
 * Do not include the 'voorvoegsel' (infix) field. 
 * The Birth Name is the name given by birth and, unlike Last Name, does not change during marriage / divorce. 
-* Some providers do not have the Birth Name; if that is the case, please consult with your CoconaCheck liaison so we can customize the hash.
+* Some providers do not have the Birth Name; if that is the case, please consult with your CoronaCheck liaison so we can customize the hash.
 
 The `identity-hash` can be generated as follows:
 
